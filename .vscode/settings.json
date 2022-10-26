@@ -1,0 +1,4 @@
+{
+  "rust-analyzer.semanticHighlighting.doc.comment.inject.enable": false,
+  "editor.formatOnSave": true
+}
